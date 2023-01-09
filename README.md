@@ -7,7 +7,7 @@
 - 🌱 Futuro engenheiro de software
 - 🤔 Os sonhos das pessoas não tem fim
 
-![Dilson GitHub stats](https://github-readme-stats.vercel.app/api?username=dilsoncampelo10&show_icons=true&theme=tokyonight) <span> &nbsp;</span>
+![Dilson GitHub stats](https://github-readme-stats.vercel.app/api?username=dilsoncampelo10&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilsoncampelo10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
