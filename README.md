@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilsono316@gmail.com)
 
 - 🔭 IFRN - Campus Ipanguaçu 4/4
-- 🌱 Futuro engenheiro de software
+- 🌱 Futuro cientista da computação
 - 🤔 Os sonhos das pessoas não tem fim
 
 ![Dilson GitHub stats](https://github-readme-stats.vercel.app/api?username=dilsoncampelo10&show_icons=true&theme=tokyonight)
