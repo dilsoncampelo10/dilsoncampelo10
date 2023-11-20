@@ -1,7 +1,15 @@
 # **Olá Mundo! Meu nome é Dilson** ❗🟰
+<div style="margin:auto">
 
+<img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="Dilson" >
+
+<div>
+    
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilson10/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilsono316@gmail.com)
+
+</div>
+
 
 - 🔭 IFRN - Técnico em informática
 - 🌱 Futuro cientista da computação
@@ -52,6 +60,9 @@
 </div>
    
           
+
+    
+</div>
 
     
 
