@@ -14,7 +14,7 @@
 
 
  🔭 IFRN - Técnico em informática <br>
- 🌱 Futuro cientista da computação <br>
+ 🌱 Engenheiro de Software em formação <br>
  🤔 Os sonhos das pessoas não tem fim
 
 ## 📌 &nbsp;Projeto em destaque
