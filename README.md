@@ -29,13 +29,14 @@
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/felipeAguiarCode/angular-playground">
-              <img src="https://www.youngontop.com/wp-content/uploads/2023/03/C495.jpg" />
+              <img src="https://lh6.googleusercontent.com/proxy/eX-c4ilpjSSqbfoi5b6mpvI-PE5FPVMzcUuEukyuRRMuYGNMCdv2l79FoWCtPp5rjVPv0Du0jBq2s10FAyMZ_Bol6H_wgmRSCCgGxnZEJkApdObQUs9OVA7e" />
+	       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />
       </a>
       </td>
 			<td valign="top">
 			<h3>Portifólio</h3>
-			<p>Portifólio desenvolvido com Angular e Spring Boot</p>
-			<a href="https://dilson-campelo10.netlify.app/">
+			<p>Portifólio desenvolvido com Angular e Laravel</p>
+			<a href="https://dilson-campelo.netlify.app/">
  			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
 			</a>
 			</td>
